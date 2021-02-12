@@ -1,0 +1,35 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = The Land of The Sun
+
+## Skin
+
+### Label
+Label_09817571_1B05_8B8C_41B3_C12A0E4E1FCB.text = The Land of The Sun
+Label_0C2DD92E_1B3C_9B94_41B2_23F40F571977.text = The Land of The Sun
+Label_0D2A9C30_1B05_798C_41A2_3D7AB12360A2.text = MONICA HAPSARI
+Label_14132197_062D_0125_4173_A2A04FA85AEF.text = MONICA HAPSARI
+
+## Media
+
+### Title
+panorama_B8EC4C92_AD35_2F28_41D1_CC5BD9C87920.label = R0011317
+panorama_B944F8C2_AD75_5728_41A5_0DD31DCF7F4C.label = 1
+panorama_B9C5FA12_AD37_2B28_41E1_6EA0F979932E.label = R0011318
+panorama_BF150C28_AD75_2F78_41D4_E1DF701A5293.label = 4
+panorama_BF153EBB_AD75_6B58_41CF_24C5948B5A4E.label = 2
+panorama_BF156A21_AD75_2B68_41E5_A86AC52CEFDF.label = 5
+
+## Action
+
+### URL
+LinkBehaviour_15153E2D_0633_036A_415D_7CE46B952968.source = https://www.the-storefront.club/product/monica-hapsari-chant-of-the-sun-scream-single/
+PopupWebFrameBehaviour_050019BA_1B0C_9AFC_41AA_2774CDA5BC41.url = //www.youtube.com/embed/QOk8HCXmihs
+PopupWebFrameBehaviour_05383D84_1B0D_9A94_41BB_7B42F3604392.url = //www.youtube.com/embed/QOk8HCXmihs
+PopupWebFrameBehaviour_0C88D946_1B0B_9B94_41B5_92AC58820AF6.url = https://www.google.com/maps/embed?pb=!4v1610719489521!6m8!1m7!1sRJFxWoODUn01kiTcaGHOcA!2m2!1d-6.269159010471443!2d106.7249122715085!3f227.1956909047355!4f1.0719681412425501!5f0.4000000000000002
+PopupWebFrameBehaviour_13CB814A_066D_012E_4183_2C2178C1AF79.url = https://www.google.com/maps/embed?pb=!4v1610719489521!6m8!1m7!1sRJFxWoODUn01kiTcaGHOcA!2m2!1d-6.269159010471443!2d106.7249122715085!3f227.1956909047355!4f1.0719681412425501!5f0.4000000000000002
